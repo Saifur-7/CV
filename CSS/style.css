@@ -1,0 +1,44 @@
+body{
+	font-size: 14px;
+	line-height: 1.7em;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+h3{
+	font-weight: 800;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+.info{
+	width: 100%;
+	padding: 0px 20px;
+}
+.obj{
+	width: 100%;
+	padding:  0px 20px;
+	text-transform: capitalize;
+}
+.personal{
+	width: 100%;
+	padding:  0px 20px;
+	text-transform: capitalize;
+}
+.education{
+	width: 100%;
+	padding:  0px 20px;
+	text-transform: capitalize;
+}
+.skill{
+	width: 100%;
+	padding:  0px 20px;
+	text-transform: capitalize;
+}
+.declare{
+	width: 100%;
+	padding:  0px 20px;
+	text-transform: capitalize;
+}
